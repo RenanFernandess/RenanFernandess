@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/RenanFernandess?tab=repositories" />
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=RenanFernandess&theme=aura&show_icons=true" />
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFernandess&theme=aura&layout=compact" />
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=RenanFernandess&theme=aura&show_icons=true" />
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFernandess&theme=aura&layout=compact" />
 </div>
 
 ##
