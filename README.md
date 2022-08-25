@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanFernandess&theme=aura&show_icons=true)
 -->
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanFernandess&theme=aura&show_icons=true)
+<div>
+  <a href="https://github.com/RenanFernandess?tab=repositories" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=RenanFernandess&theme=aura&show_icons=true" />
+</div>
 
 ##
 
