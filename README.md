@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/ico
 Adicionar link do curriculo
 Adicionar o que faço atualmente
 Adicionar email de contato
+Pinar mais projetos
 
 -->
 ##
