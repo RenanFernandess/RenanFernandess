@@ -47,5 +47,5 @@ Pinar mais projetos
   </a>
 </div>
 
-![Snake animation](https://github.com/RenanFernandess/RenanFernandess/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/RenanFernandess/RenanFernandess/blob/output/github-contribution-grid-snake.svg) -->
 
