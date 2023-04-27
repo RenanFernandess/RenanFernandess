@@ -67,11 +67,11 @@ Pinar mais projetos
 </div>
 
 ----
+<h2 align="center">Minhas estatísticas do Github</h2>
 
 <div align="center">
   <a href="https://github.com/RenanFernandess?tab=repositories">
-    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=RenanFernandess&theme=aura&show_icons=true" />
-    <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFernandess&theme=aura&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RenanFernandess&theme=aura&show_icons=true&card_width=540" />
   </a>
 </div>
 
