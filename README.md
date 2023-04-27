@@ -12,20 +12,20 @@ Pinar mais projetos
 
 -->
 
-<h1 align="center">Hi 👋, I'm Renan Fernandes</h1>
-<h3 align="center">Full stack web developer, studying web development at trybe</h3>
+<h1 align="center">Oi 👋, eu sou Renan Fernandes</h1>
+<h3 align="center">Desenvolvedor web full stack, estudando desenvolvimento web na Trybe</h3>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 Atualmente estou aprendendo **desenvolvimento web**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RenanFernandess?tab=repositories](https://github.com/RenanFernandess?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RenanFernandess?tab=repositories](https://github.com/RenanFernandess?tab=repositories)
 
-- 💬 Ask me about **react, javaScript, css and html**
+- 💬 Pergunte-me sobre **react, javaScript, css e html**
 
-- 📫 How to reach me **renzinestuods@gmail.com**
+- 📫 Como chegar até mim **renzinestuods@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/RenanFernandess?tab=repositories](https://github.com/RenanFernandess?tab=repositories)
+- 📄 Conheça minhas experiências [https://github.com/RenanFernandess?tab=repositories](https://github.com/RenanFernandess?tab=repositories)
 
-- ⚡ Fun fact **I love games, sports, science and technology**
+- ⚡ Curiosidade **Amo jogos, esportes, ciência e tecnologia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
