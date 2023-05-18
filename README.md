@@ -52,7 +52,8 @@ Pinar mais projetos
 
 <h3 align="center">Aprendendo ativamente</h3>
 <div align="center"> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
+  <a href="https://docs.pytest.org/en/7.3.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="60" height="60"/> </a>
 </div>
 
 <h2></h2>
