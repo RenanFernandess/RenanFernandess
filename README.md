@@ -22,7 +22,7 @@ Pinar mais projetos
 
 - 💬 Pergunte-me sobre **react, javaScript, css e html**
 
-- 📫 Como chegar até mim **renzinestuods@gmail.com**
+- 📫 Como chegar até mim **orenanfer@gmail.com**
 
 - 📄 Conheça minhas experiências [https://github.com/RenanFernandess?tab=repositories](https://github.com/RenanFernandess?tab=repositories)
 
