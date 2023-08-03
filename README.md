@@ -30,9 +30,10 @@ Pinar mais projetos
 
 ----
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Contato</h3>
 <p align="left">
 <a href="https://linkedin.com/in/orenanfernandes" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="orenanfernandes" /></a>
+<a href="mailto:orenanfer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ----
 <h2 align="center">Tecnologias e Habilidades</h2>
