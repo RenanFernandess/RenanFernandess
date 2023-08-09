@@ -118,6 +118,7 @@ Pinar mais projetos
   <img src="https://img.shields.io/badge/axios-white.svg?style=for-the-badge&logo=axios&logoColor=black" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
 </div>
 
 ----
