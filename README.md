@@ -31,7 +31,7 @@ Pinar mais projetos
 <h2 align="center">Tecnologias e Habilidades</h2>
 <div align="center">
   <a href="https://github.com/RenanFernandess?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFernandess&theme=aura&layout=compact&card_width=540&langs_count=6" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFernandess&theme=aura&layout=compact&card_width=400&langs_count=6" />
   </a>
 </div>
 
