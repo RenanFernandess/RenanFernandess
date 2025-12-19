@@ -1,15 +1,6 @@
 <!--
-
-Adicionar link do curriculo
-Adicionar o que faço atualmente
-Adicionar email de contato
-Pinar mais projetos
-
 <a href="https://instagram.com/erenanfernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erenanfernandes" height="30" width="40" /></a>
 </p>
-
-  
-
 
 -->
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=RenanFernandess&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
@@ -21,8 +12,9 @@ Pinar mais projetos
 
 <h3 align="left">Contato</h3>
 <p align="left">
-<a href="https://linkedin.com/in/orenanfernandes" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="orenanfernandes" /></a>
-<a href="mailto:orenanfer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/orenanfernandes" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=white" alt="orenanfernandes" /></a>
+<a href="orenanfer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://instagram.com/orenanfer"><img src="https://img.shields.io/badge/Instagram-D53BB8?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ----
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFernandess&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&layout=compact&langs_count=6" alt="linguagês" />
