@@ -1,8 +1,3 @@
-<!--
-<a href="https://instagram.com/erenanfernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erenanfernandes" height="30" width="40" /></a>
-</p>
-
--->
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=RenanFernandess&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Renan Fernandes!
@@ -17,7 +12,7 @@
 <a href="https://instagram.com/orenanfer"><img src="https://img.shields.io/badge/Instagram-D53BB8?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ----
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFernandess&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&layout=compact&langs_count=6" alt="linguagês" />
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFernandess&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&layout=compact&locale=pt-br&langs_count=6" alt="linguagês" />
 
 ### Principais tecnologias que utilizo
 <div>
@@ -45,10 +40,3 @@
 <br/>
 
 ----
-<!-- <h2 align="center">Minhas estatísticas do Github</h2>
-
-<div align="center">
-  <a href="https://github.com/RenanFernandess?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=RenanFernandess&theme=aura&show_icons=true&card_width=540" />
-  </a>
-</div> -->
