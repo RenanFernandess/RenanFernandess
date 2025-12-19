@@ -12,15 +12,12 @@ Pinar mais projetos
 
 
 -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=RenanFernandess&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-<h1 align="center">Oi 👋, eu sou Renan Fernandes</h1>
-<h3 align="center">Desenvolvedor web full stack</h3>
+### Olá, meu nome é Renan Fernandes!
+<img src="https://img.shields.io/static/v1?label=Overview&message=Renan_Fernandes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<p>Trabalhando como professor de informática para oficina do CRAS do municipio onde moro.<br/> Eu sou desenvolvedor Full Stack formado pela Trybe, mas atualmente estou focado em desenvolvimento mobile Android e Kotlin.</p>
 
-- 🌱 Atualmente estou aprendendo **desenvolvimento android kotlin**
-
-- 📫 Como chegar até mim **orenanfer@gmail.com**
-
-----
 
 <h3 align="left">Contato</h3>
 <p align="left">
