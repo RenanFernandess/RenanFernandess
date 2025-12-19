@@ -16,7 +16,7 @@ Pinar mais projetos
 
 ### Olá, meu nome é Renan Fernandes!
 <img src="https://img.shields.io/static/v1?label=Overview&message=Renan_Fernandes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-<p>Trabalhando como professor de informática para oficina do CRAS do municipio onde moro.<br/> Eu sou desenvolvedor Full Stack formado pela Trybe, mas atualmente estou focado em desenvolvimento mobile Android e Kotlin.</p>
+<p>Trabalhando como professor de informática para oficina do CRAS do municipio onde moro.<br/> Sou desenvolvedor Full Stack formado pela Trybe, mas atualmente estou focado em desenvolvimento mobile Android e Kotlin.</p>
 
 
 <h3 align="left">Contato</h3>
