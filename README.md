@@ -7,7 +7,7 @@
 
 <h3 align="left">Contato</h3>
 <p align="left">
-<a href="https://linkedin.com/in/orenanfernandes" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=white" alt="orenanfernandes" /></a>
+<a href="https://linkedin.com/in/orenanfer" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=white" alt="orenanfernandes" /></a>
 <a href="orenanfer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/orenanfer"><img src="https://img.shields.io/badge/Instagram-D53BB8?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
